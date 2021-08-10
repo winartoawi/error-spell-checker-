@@ -21,3 +21,6 @@ d)	The techniques used for the detection of the spelling errors must include big
 
 e)	Provide the following functionality in your application: 
 Ability to show a sorted list of all words in the corpus with the facility of exploring the list and search for a specific word Ability to highlight the misspelled words, and right click to suggest the correct words (with their minimum edit distance from the wrong word)
+
+
+Corpus was made from covid-19 research paper abstracts based on kaggle dataset link: https://www.kaggle.com/sshikamaru/cord19-covid19-open-research-dataset?select=Research_text_files.csv
